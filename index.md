@@ -16,6 +16,6 @@ $$
 \frac 12
 $$
 
-```python
+```r
 print("Hello Heixiong!")
 ```
